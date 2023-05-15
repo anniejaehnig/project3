@@ -13,7 +13,7 @@
     {
       "name": "American Robin",
       "latin": "Turdus migratorius",
-      "habitat": "Open Woodlands", 
+      "habitat": "Open Woodlands",
       "song": "https://media.audubon.org/nas_birdapi_file/AMEROB_1.songnum1_NYle.mp3",
       "picture_path": "http://2.bp.blogspot.com/-ljpExyEwCC8/TVh4YJX76wI/AAAAAAAAARE/-sSFzQuz24w/s1600/DSC_0113.JPG",
       "overview": "Robins are a very popular North American bird. Though they are re familiar town and city birds, American Robins are at home in wilder areas, too, including mountain forests and Alaskan wilderness.",
@@ -109,5 +109,6 @@
       "overview": "The barn owl preys chiefly on mice and rats and roosts in barns and other structures. It is often heard at night as it flies over farmland and marshes.",
       "colors": "Brown, white, tan",
       "eggs": "Whitish, incubation period 29-34 days."
-    ]
-    },
+    }
+  ]
+}

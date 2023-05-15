@@ -8,9 +8,9 @@ const App = () => {
     <div>
       <h1 className="title">All About Birds</h1>
       <main>
-        {birdsArray.map((birds) => (
+        {/* {birdsArray.map((birds) => (
           <Birds birds={birds} key={birds.picture_path} />
-        ))}
+        ))} */}
       </main>
     </div>
   )
