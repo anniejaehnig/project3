@@ -1,16 +1,16 @@
 import './App.css'
-import Birds from './Components/Birds'
+import Bird from './Components/Bird'
 import birdsArray from './birds.json'
 import Footer from './Components/Footer'
 
 const App = () => {
   return (
-    <div>
-      <h1 className="title">All About Birds</h1>
+    <div className="container">
+      <h1 className="title">North American Birds</h1>
       <main>
-        {/* {birdsArray.map((birds) => (
-          <Birds birds={birds} key={birds.picture_path} />
-        ))} */}
+        {birdsArray.birds.map((bird) => (
+          <Bird bird={bird} key={bird.picture_path} />
+        ))}
       </main>
     </div>
   )
