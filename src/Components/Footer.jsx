@@ -1,11 +1,9 @@
 const Footer = () => {
   return (
     <div className="footer">
-      <h5>Footer Information</h5>
-      <ul id="footerUL">
-        <li>Sources</li>
-        <li>More Information</li>
-      </ul>
+      <h3>North American Birds</h3>
+      <p>Photos from Audubon Society and Google Images.</p>
+      <p>Other Sources</p>
     </div>
   )
 }

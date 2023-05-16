@@ -109,6 +109,46 @@
       "overview": "The barn owl preys chiefly on mice and rats and roosts in barns and other structures. It is often heard at night as it flies over farmland and marshes.",
       "colors": "Brown, white, tan",
       "eggs": "Whitish, incubation period 29-34 days."
+    },
+    {
+      "name": "Common Grackle",
+      "latin": "Quiscalus quiscula",
+      "habitat": "Farmland, towns, streamsides",
+      "song": "https://media.audubon.org/nas_birdapi_file/snd-1-961-288-1263259002482062952_1.mp3",
+      "picture_path": "https://www.allaboutbirds.org/guide/assets/photo/307948931-1280px.jpg",
+      "overview": "Common Grackles often nest in small colonies, and several males may perch in adjacent treetops.",
+      "colors": "Brown, blue, black, green",
+      "eggs": "Pale blue, blotched with brown, incubation period 12-14 days."
+    },
+    {
+      "name": "Common Nighthawk",
+      "latin": "Chordeiles minor",
+      "habitat": "Open country, some cities and towns",
+      "song": "https://media.audubon.org/nas_birdapi_file/COMNIG_1.peentsampbooms_GAle_1.mp3",
+      "picture_path": "https://media.audubon.org/nas_birdapi/a1_5317_2_common_nighthawk_connor_charchuk_adult.jpg",
+      "overview": "The Nighthawk hunts both by day and night, catching flying insects in the air. Nighhawks nest on flat gravel roofs.",
+      "colors": "Brown, white, tan",
+      "eggs": "Whitish to pale gray, heavily spotted with brown, incubation period about 19 days."
+    },
+    {
+      "name": "Blue Jay",
+      "latin": "Cyanocitta cristata",
+      "habitat": "Oak and pine woods, suburban gardens, towns and cities",
+      "song": "https://media.audubon.org/nas_birdapi_file/BLUJAY_10.variouscallsofgroupwithrattles_ARle_1.mp3",
+      "picture_path": "https://media.audubon.org/nas_birdapi/sfw_fixed_01-29-2011-223.jpg",
+      "overview": "Blue Jays are one of the most popular and most easily recognizable birds. Their birdsong is beautiful, but they take advantage of other birds. They often steal eggs from other nests and will eat almost anything.",
+      "colors": "Blue, pale blue, white, black",
+      "eggs": "Greenish, sometimes pale blue, spotted with brown and gray, incubation period 16-18 days."
+    },
+    {
+      "name": "Blue Jay",
+      "latin": "Cyanocitta cristata",
+      "habitat": "Oak and pine woods, suburban gardens, towns and cities",
+      "song": "https://media.audubon.org/nas_birdapi_file/BLUJAY_10.variouscallsofgroupwithrattles_ARle_1.mp3",
+      "picture_path": "https://media.audubon.org/nas_birdapi/sfw_fixed_01-29-2011-223.jpg",
+      "overview": "Blue Jays are one of the most popular and most easily recognizable birds. Their birdsong is beautiful, but they take advantage of other birds. They often steal eggs from other nests and will eat almost anything.",
+      "colors": "Blue, pale blue, white, black",
+      "eggs": "Greenish, sometimes pale blue, spotted with brown and gray, incubation period 16-18 days."
     }
   ]
 }
