@@ -7,9 +7,9 @@ const Bird = (props) => {
       <h3>{props.bird.name}</h3>
       <p id="overview">{props.bird.overview}</p>
       {/* <p className="click">Click for more info.</p> */}
-      {/* <section className="info">
-        <Information />
-      </section> */}
+      <section className="info">
+        <Information bird={props.bird} />
+      </section>
     </div>
   )
 }

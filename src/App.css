@@ -13,6 +13,11 @@ body {
   gap: 20px;
 }
 
+h1 {
+  font-family: Caveat;
+  font-size: xxx-large;
+}
+
 #photo {
   background-color: #EEC584;
   border: 3px solid black;
@@ -22,10 +27,6 @@ body {
   width: 30vw;
   height: 20vw;
 }
-/* 
-.container h1 {
-  
-} */
 
 .footer {
   width: 100%;
@@ -40,7 +41,7 @@ body {
   flex-grow: 1;
   background-color: #EEC584;
   color:#434A42;
-  margin: 10px;
+  margin: 20px;
 }
 
   /* position: absolute;
@@ -58,11 +59,10 @@ a {
   color: #434A42;
 }
 
-h1 {
-  font-family: Caveat;
-  font-size: xxx-large;
-}
-
-#overview {
+/* #overview {
   text-align: center;
+} */
+
+div.title {
+  margin: 10px 10px 10px 10px;
 }
