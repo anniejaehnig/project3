@@ -3,6 +3,7 @@ import Bird from './Components/Bird'
 import birdsArray from './birds.json'
 import Footer from './Components/Footer'
 import Header from './Components/Header'
+import Information from './Components/Information'
 
 const App = () => {
   return (
