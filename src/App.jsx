@@ -11,6 +11,9 @@ const App = () => {
         {birdsArray.birds.map((bird) => (
           <Bird bird={bird} key={bird.picture_path} />
         ))}
+        <footer className="footer">
+          <Footer />
+        </footer>
       </main>
     </div>
   )
