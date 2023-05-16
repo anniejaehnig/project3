@@ -45,7 +45,7 @@
       "latin": "Corvus brachyrhynchos",
       "habitat": "Open Woodlands",
       "song": "https://media.audubon.org/nas_birdapi_file/AMECRO_1.cawsnum1_FLle_1.mp3",
-      "picture_path": "https://media.audubon.org/dsc_2017.jpg?width=796&auto=webp&quality=90&fit=bounds&disable=upscale",
+      "picture_path": "https://www.allaboutbirds.org/guide/assets/photo/59858061-1280px.jpg",
       "overview": "Crows are extremely common in farmlands, towns and cities. They are known to be sociable and gather in roosts on cold winter nights. They are one of the most intelligent birds.",
       "colors": "Black.",
       "eggs": "Blue-green to gray-green dotted with brown and gray, incubation period 18 days."
@@ -105,7 +105,7 @@
       "latin": "Tyto alba",
       "habitat": "Open Woodlands",
       "song": "https://media.audubon.org/nas_birdapi_file/BARNOW_1.screamsnum1_UTkc.mp3",
-      "picture_path": "https://media.audubon.org/nas_birdapi/web_a1_3751_8_barn-owl_shlomo_neuman_kk-adult-male_copy.jpg",
+      "picture_path": "https://www.allaboutbirds.org/guide/assets/photo/297342281-1280px.jpg",
       "overview": "The barn owl preys chiefly on mice and rats and roosts in barns and other structures. It is often heard at night as it flies over farmland and marshes.",
       "colors": "Brown, white, tan",
       "eggs": "Whitish, incubation period 29-34 days."
@@ -141,14 +141,114 @@
       "eggs": "Greenish, sometimes pale blue, spotted with brown and gray, incubation period 16-18 days."
     },
     {
-      "name": "Blue Jay",
-      "latin": "Cyanocitta cristata",
-      "habitat": "Oak and pine woods, suburban gardens, towns and cities",
-      "song": "https://media.audubon.org/nas_birdapi_file/BLUJAY_10.variouscallsofgroupwithrattles_ARle_1.mp3",
-      "picture_path": "https://media.audubon.org/nas_birdapi/sfw_fixed_01-29-2011-223.jpg",
-      "overview": "Blue Jays are one of the most popular and most easily recognizable birds. Their birdsong is beautiful, but they take advantage of other birds. They often steal eggs from other nests and will eat almost anything.",
-      "colors": "Blue, pale blue, white, black",
-      "eggs": "Greenish, sometimes pale blue, spotted with brown and gray, incubation period 16-18 days."
+      "name": "House Finch",
+      "latin": "Haemorhous mexicanus",
+      "habitat": "Cities, suburbs, farms, canyons.",
+      "song": "https://media.audubon.org/nas_birdapi_file/HOUFIN_3.songnum3_UTkc_1.mp3",
+      "picture_path": "https://media.audubon.org/nas_birdapi/h_a1_5213_8_house-finch_gary_robinette_adult-male.jpg",
+      "overview": "House Finches are common across North America. They are originally from the Southwest and are only recent arrivals in the East.",
+      "colors": "Red, brown, tan, white",
+      "eggs": "Pale blue with black and lavender dots, incubation period 13-14 days."
+    },
+    {
+      "name": "Song Sparrow",
+      "latin": "Melospiza melodia",
+      "habitat": "Thickets, brush, marshes, roadsides, gardens.",
+      "song": "https://media.audubon.org/nas_birdapi_file/SONSPA_4.songsnum4_CAkc_1.mp3",
+      "picture_path": "https://media.audubon.org/nas_birdapi/h_song-sparrow_006_spring_california_allanhack_flickrcc-by-nd-2.0_adult-california.jpg",
+      "overview": "Song sparrows are familiar birds in the Northeast. It often hides in bushes, only seen flying to another inconspicuous area.",
+      "colors": "Brown, white, tan",
+      "eggs": "Pale greenish white, heavily spotted with reddish brown, incubation period about 12-14 days."
+    },
+    {
+      "name": "Red-winged Blackbird",
+      "latin": "Agelaius phoeniceus",
+      "habitat": "Breeds in marshes, brushy swamps, hayfields.",
+      "song": "https://media.audubon.org/nas_birdapi_file/REWIBL_13.maleburryalarmwhistlesampchackcalls_MIle_1.mp3",
+      "picture_path": "https://media.audubon.org/nas_birdapi/h_a1_6115_1_red-winged-blackbird_muhammad_arif_adult-male.jpg",
+      "overview": "The red-winged blackbird is another popular bird, common across all of North America. They are boldly colored and are often seen on marshlands atop cattails.",
+      "colors": "Black, red, yellow",
+      "eggs": "Pale blue-green, with markings of black, brown, purple. Incubation period is 10-12 days."
+    },
+    {
+      "name": "House Wren",
+      "latin": "Troglodytes aedon",
+      "habitat": "Open woods, thickets, towns, gardens.",
+      "song": "https://media.audubon.org/nas_birdapi_file/HOUWRE_1.songnum1_NYle.mp3",
+      "picture_path": "https://media.audubon.org/nas_birdapi/house-wren_001_summer_arizona_carlakishinami_flickrccby-nc-nd-2.0_adult_0.jpg",
+      "overview": "The House Wren was named for its tendency to nest in human homes and birdhouses. They are active and inquisitive.",
+      "colors": "Tan, brown",
+      "eggs": "White, heavily dotted with reddish brown. Incubation period bout 12-15 days."
+    },
+    {
+      "name": "Mourning Dove",
+      "latin": "Zenaida macroura",
+      "habitat": "Farms, towns, open woods, roadsides, grasslands.",
+      "song": "https://media.audubon.org/nas_birdapi_file/MOUDOV_1.cooamppartialcoo_NYle_1.mp3",
+      "picture_path": "https://media.audubon.org/nas_birdapi/h_aud_gbbc-2016_mourning-dove_34483_kk_me_photo-betsy-bass_adults.jpg",
+      "overview": "The cooing of the mourning dove is a familiar sound for many. This is one of North America's most common birds, abundant in the country and on road sides.",
+      "colors": "Tan, brown",
+      "eggs": "White, incubation period about 14 days."
+    },
+    {
+      "name": "Rock Pigeon",
+      "latin": "Columba livia",
+      "habitat": "Cities, farms, bridges. Most common in North American around cities.",
+      "song": "https://media.audubon.org/nas_birdapi_file/ROCPIG_1.malecooing_UTkc_1.mp3",
+      "picture_path": "https://media.audubon.org/nas_birdapi/rock-pigeon_002_fall_washington_andyreagochrissymcclarren_flickrcc-by-2.0_adults.jpg",
+      "overview": "These pigeons make themselves at home in big cities. It is also known as the Common City Pigeon. It lives in wild or semi-wild condition in cities all over the world.",
+      "colors": "Tan, brown",
+      "eggs": "White, incubation period about 14 days."
+    },
+    {
+      "name": "Northern Cardinal",
+      "latin": "Cardinalis cardinalis",
+      "habitat": "Woodland edges, thickets, suburban gardens, towns.",
+      "song": "https://media.audubon.org/nas_birdapi_file/NORCAR_1.songsnum1_NYle_1.mp3",
+      "picture_path": "https://www.allaboutbirds.org/guide/assets/photo/297087301-1280px.jpg",
+      "overview": "One of our most popular birds, the Cardinal is the official state bird of no fewer than seven eastern states.",
+      "colors": "Red, black, tan",
+      "eggs": "Whitish to pale bluish or greenish white, marked with brown, purple, and gray. Incubation period about 12-13 days."
+    },
+    {
+      "name": "Tufted Titmouse",
+      "latin": "Baeolophus bicolor",
+      "habitat": "Woodlands, shade trees, groves.",
+      "song": "https://media.audubon.org/nas_birdapi_file/TUFTIT_1.songsnum1_OHle_1.mp3",
+      "picture_path": "https://www.allaboutbirds.org/guide/assets/photo/302627281-1280px.jpg",
+      "overview": "This bird is common all year in eastern forests. When a titmouse finds a large seed, you will ll see it carry the prize to a perch and crack it with sharp whacks of its stout bill.",
+      "colors": "Gray, tan, orange",
+      "eggs": "White, finely dotted with brown, reddish, or purple. Incubation period about 12-14 days."
+    },
+    {
+      "name": "Red-bellied Woodpecker",
+      "latin": "Melanerpes carolinus",
+      "habitat": "Woodlands, groves, orchards, towns.",
+      "song": "https://media.audubon.org/nas_birdapi_file/REBEWO_1.querrcalls_FLle_1.mp3",
+      "picture_path": "https://media.audubon.org/nas_birdapi/h_a1_4293_1_red-bellied-woodpecker_matthew_pimm_kk_adult-male.jpg",
+      "overview": "This particular woodpecker is more common in the southeast. The woodpecker has adjusted to life in suburbs and city parks.",
+      "colors": "Black, red, white",
+      "eggs": "White. Incubation period about 12-14 days."
+    },
+    {
+      "name": "Eastern Bluebird",
+      "latin": "Sialia sialis",
+      "habitat": "Open country with scattered trees; farms, roadsides.",
+      "song": "https://media.audubon.org/nas_birdapi_file/EASBLU_1.song_KYle.mp3",
+      "picture_path": "https://media.audubon.org/nas_birdapi/apa_2015_ericnie_276399_eastern_bluebird_kk_adult_male.jpg",
+      "overview": "This is the most popular of all types of bluebirds. It is mostly found on the east coast but its' total range extends south to Nicaragua.",
+      "colors": "Blue, orange, white",
+      "eggs": "Pale blue, sometimes white. Incubation period about 13-16 days."
+    },
+    {
+      "name": "Ruby-throated Hummingbird",
+      "latin": "Archilochus colubris",
+      "habitat": "Gardens, wood edges.",
+      "song": "https://media.audubon.org/nas_birdapi_file/RUTHHU_2.chasecalls_FLle_1.mp3",
+      "picture_path": "https://www.allaboutbirds.org/guide/assets/photo/303881311-1280px.jpg",
+      "overview": "The Ruby-throated hummingbird is the only hummingbird close to the east coast. Hummingbirds can beat their wings more than 50 times per second.",
+      "colors": "Red, green, black, tan",
+      "eggs": "White. Incubation period about 11-16 days."
     }
   ]
 }
