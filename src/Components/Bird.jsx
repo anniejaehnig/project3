@@ -5,7 +5,7 @@ const Bird = (props) => {
     <div className="bird">
       <img src={props.bird.picture_path} id="photo" alt="" />
       <h3>{props.bird.name}</h3>
-      <p>{props.bird.overview}</p>
+      <p id="overview">{props.bird.overview}</p>
       {/* <p className="click">Click for more info.</p> */}
       {/* <section className="info">
         <Information />
