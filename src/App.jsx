@@ -6,8 +6,8 @@ import Footer from './Components/Footer'
 const App = () => {
   return (
     <div className="container">
-      <h1 className="title">North American Birds</h1>
-      <main>
+      <h1>North American Birds</h1>
+      <main className="container">
         {birdsArray.birds.map((bird) => (
           <Bird bird={bird} key={bird.picture_path} />
         ))}
