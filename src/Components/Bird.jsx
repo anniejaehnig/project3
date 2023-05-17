@@ -7,7 +7,18 @@ const Bird = (props) => {
       <img src={props.bird.picture_path} id="photo" alt="" />
       <h3>{props.bird.name}</h3>
       <p id="overview">{props.bird.overview}</p>
-      <Button />
+      {/* Dropdown code from W3Schools */}
+      <div className="dropdown">
+        <span>
+          <Button />
+        </span>
+        <div className="dropdown-content">
+          <p>
+            <Information bird={props.bird} />
+          </p>
+        </div>
+      </div>
+      {/* <Button /> */}
       {/* <p className="click">Click for more info.</p> */}
       {/* <section className="info">
         <Information bird={props.bird} />
