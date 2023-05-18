@@ -8,7 +8,7 @@ import Information from './Components/Information'
 const App = () => {
   return (
     <div className="container">
-      <Header />
+      {/* <Header /> */}
       <main className="container">
         {birdsArray.birds.map((bird) => (
           <Bird bird={bird} key={bird.picture_path} />
