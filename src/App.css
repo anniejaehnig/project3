@@ -15,8 +15,11 @@ body {
 
 h1 {
   font-family: Caveat;
-  /* font-size: 50px; */
   font-size: xxx-large;
+}
+
+h3 {
+  font-weight: 400;
 }
 
 #photo {
@@ -36,37 +39,39 @@ h1 {
   text-align: center;
 }
 
-.title {
-  justify-content: center;
-  flex-grow: 1;
-  background-color: #EEC584;
-  color:#434A42;
-  margin: 10px 10px 10px 10px;
+.header {
+  text-align: center;
+  /* flex-grow: 1; */
+  /* flex-wrap: wrap; */
+  color: #EEC584;
+  background-color:#434A42;
+  /* width: 100%; */
+  /* margin: 10px 10px 10px 10px; */
 
 }
 
+.sidebar {
+  float: left;
+  position: fixed;
+  font-family: Raleway;
+  font-size: 20px;
+}
+
   .bird {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    display: block;
-    width: 33vw;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  display: block;
+  width: 33vw;
+  justify-content: center;
+  text-align: center;
+  gap: 20px;
+  font-family: Raleway;
   }
 
 a {
   color: #434A42;
 }
-
-/* section {
-  border: 2px solid black;
-  margin: 10px;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  flex-direction: column;
-  display: block;
-  width: 25vw;
-} */
 
 .button {
   background-color: #EEC584;
@@ -103,4 +108,3 @@ a {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-

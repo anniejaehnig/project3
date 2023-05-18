@@ -3,20 +3,23 @@ import Bird from './Components/Bird'
 import birdsArray from './birds.json'
 import Footer from './Components/Footer'
 import Header from './Components/Header'
-import Information from './Components/Information'
+import Sidebar from './Components/Sidebar'
 
 const App = () => {
   return (
-    <div className="container">
-      {/* <Header /> */}
-      <main className="container">
+    <div>
+      <Header />
+      <div className="sidebar1">
+        <Sidebar />
+      </div>
+      <div className="container">
         {birdsArray.birds.map((bird) => (
           <Bird bird={bird} key={bird.picture_path} />
         ))}
         <footer className="footer">
           <Footer />
         </footer>
-      </main>
+      </div>
     </div>
   )
 }
