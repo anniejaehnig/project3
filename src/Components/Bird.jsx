@@ -18,11 +18,6 @@ const Bird = (props) => {
           </p>
         </div>
       </div>
-      {/* <Button /> */}
-      {/* <p className="click">Click for more info.</p> */}
-      {/* <section className="info">
-        <Information bird={props.bird} />
-      </section> */}
     </div>
   )
 }

@@ -11,6 +11,7 @@ body {
   justify-content: center;
   text-align: center;
   gap: 20px;
+  max-width: 850px;
 }
 
 h1 {
@@ -87,7 +88,7 @@ a {
   display: inline-block;
 }
 
-/* Dropdown styling from W3Schools */
+/* Dropdown styling from W3Schools edited to make it my own */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -101,3 +102,4 @@ a {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
