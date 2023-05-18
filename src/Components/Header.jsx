@@ -4,8 +4,8 @@ const Header = () => {
       <div className="image">
         <img className="resize" src="src/Components/Nest.png"></img>
       </div>
-      <div className="text">
-        <h1>North American Birds</h1>
+      <div className="image2">
+        <img className="resize1" src="src/Components/nab.png"></img>
       </div>
     </div>
   )

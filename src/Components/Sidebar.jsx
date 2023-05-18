@@ -21,7 +21,7 @@ const Sidebar = () => {
           className="sidebarlink"
           href="https://www.allaboutbirds.org/news/macaulay-librarys-best-bird-photos-2023/#"
         >
-          Bird Photos
+          Photos
         </a>
       </p>
     </div>
